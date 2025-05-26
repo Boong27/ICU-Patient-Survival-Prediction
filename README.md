@@ -90,3 +90,6 @@ This simulation demonstrates how interpretable AI can assist in clinical decisio
 ✉️ Giakhiem@gmail.com
 
 ---
+![image](https://github.com/user-attachments/assets/89c9168d-a74e-4e45-9f0d-cd552d7a7930)
+![image](https://github.com/user-attachments/assets/7ab8c2ee-b67c-4880-b399-7d9b690876d1)
+
