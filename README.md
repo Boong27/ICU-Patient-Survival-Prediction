@@ -41,25 +41,6 @@ This simulation demonstrates how interpretable AI can assist in clinical decisio
 
 ---
 
-## 🛠️ Folder Structure
-
-ICU-Patient-Survival-Prediction/
-├── data/
-│ └── sample_data.csv
-├── notebooks/
-│ └── survival_modeling.ipynb
-├── src/
-│ ├── preprocess.py
-│ └── model_pipeline.py
-├── img/
-│ ├── shap_summary_plot.png
-│ └── roc_auc_curve.png
-├── reports/
-│ └── survival_analysis_summary.pdf
-└── README.md
-
-
-
 ---
 
 ## 📊 Key Analyses & Results
